@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
-import ReactRotatingText from 'react-rotating-text';
 function App() {
   return (
     <div className="Main">
       <header className="Main-Header">
-        <ReactRotatingText items={['Hi Alex','I\'m', 'Buying you', 'Planet Zoo']}/>
+        <h1>Welcome to my site boiis</h1>
       </header>
     </div>
   );
